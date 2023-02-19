@@ -17,6 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
+QR Code Component built with HTML, CSS
+
 
 ### Screenshot
 
@@ -25,10 +27,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-4BQHRxRVQT](https://www.frontendmentor.io/solutions/qr-code-component-4BQHRxRVQT)
+- Live Site URL: [https://alishata128.github.io/frontend-mentor-qr-code-component/](https://alishata128.github.io/frontend-mentor-qr-code-component/)
 
-## My process
 
 ### Built with
 
